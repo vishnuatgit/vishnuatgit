@@ -4,7 +4,7 @@ I'm a developer who loves writing Python, diving into data pipelines, and buildi
 
 ---
 
-### Currently Building 🛠️
+### Currently Building
 
 * **[ArchLens](https://github.com/vishnuatgit/ArchLens)**: A Repository Intelligence Platform built using FastAPI and GitHub APIs to analyze software architecture, compute engineering metrics, and generate structured repository quality reports.
 
