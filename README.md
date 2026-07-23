@@ -1,27 +1,33 @@
-# Hey, I'm Vishnu
+# Chandana Vishnu Jayanth
 
-I'm a developer who loves writing Python, diving into data pipelines, and building tools that make things work smoother. Right now, I'm spending my time practicing daily data structures and algorithms, building telemetry/ML projects, and exploring backend systems.
+B.Tech Computer Science and Engineering (AI/ML) student focused on backend development, data pipelines, and applied machine learning.
 
----
-
-### Currently Building
-
-* **[ArchLens](https://github.com/vishnuatgit/ArchLens)**: A Repository Intelligence Platform built using FastAPI and GitHub APIs to analyze software architecture, compute engineering metrics, and generate structured repository quality reports.
-
-### Projects & Practice
-
-* **[SupplyTrace](https://github.com/vishnuatgit/SupplyTrace)**: A pipeline that pulls supply chain data, cleans it up, and runs it through a RandomForest model to highlight operational risks before they happen.
-* **[DeepBell](https://github.com/vishnuatgit/DeepBell)**: An interactive dark-mode dashboard built for SREs. It charts system metrics (using Chart.js) and uses LLMs to automatically generate root-cause reports when things go wrong.
-* **[EcoMetrics](https://github.com/vishnuatgit/carbon-footprint-tracker)**: A client-side carbon footprint tracker built with vanilla HTML, CSS, and JavaScript. It calculates lifestyle emissions and logs daily eco-friendly actions using browser localStorage.
-* **[LibMS](https://github.com/vishnuatgit/LibMS)**: A simple, database-backed library management tool.
-* **[CLI_Task_Tracker](https://github.com/vishnuatgit/CLI_Task_Tracker)**: A quick, JSON-based CLI tracker to keep my terminal workflow organized.
-
-
+[LinkedIn](https://linkedin.com/in/vishnujayanth) | [Email](mailto:jayanthvishnu9@gmail.com)
 
 ---
 
-### My Toolkit
+## Projects
 
-* **Languages**: Python, SQL, JavaScript, HTML/CSS
-* **Libraries/Frameworks**: FastAPI, LangChain, scikit-learn, Jinja2, Chart.js, Pandas
-* **Tools**: Git, PowerShell, SQLite
+### [ArchLens](https://github.com/vishnuatgit/ArchLens)
+*FastAPI, SQLAlchemy, Alembic, Pydantic, GitHub REST API, httpx*
+
+A backend service built with FastAPI to analyze GitHub repositories. Fetches repository data asynchronously via the GitHub API, computes code metrics, and stores results using SQLAlchemy and SQLite.
+
+### [DeepBell](https://github.com/vishnuatgit/DeepBell)
+*FastAPI, LangChain, Google GenAI, Scikit-Learn, SQLite, Docker*
+
+An SRE telemetry dashboard that monitors system metrics (CPU/Memory) in real-time. Uses `IsolationForest` for anomaly detection, maintains rolling SQLite database backups, and uses LangChain with Gemini to generate incident post-mortem reports.
+
+### [SupplyTrace](https://github.com/vishnuatgit/SupplyTrace)
+*Python, FastAPI, Scikit-Learn, Pandas, NumPy*
+
+An XML processing and risk prediction pipeline that parses nested invoice XML files, extracts metadata features, and uses a Random Forest classifier (94% accuracy) to predict transaction processing risks.
+
+---
+
+## Technical Skills
+
+- **Languages:** Python, SQL, JavaScript, HTML/CSS
+- **Backend Frameworks & Tools:** FastAPI, Uvicorn, SQLAlchemy, Alembic, Pydantic, REST APIs
+- **Machine Learning & Data:** Scikit-Learn, Pandas, NumPy, LangChain
+- **Databases & DevOps:** SQLite, PostgreSQL, Docker, Git, Pytest
