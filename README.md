@@ -20,7 +20,7 @@ Built a 5-module ML platform on 36,893 e-commerce transactions: RFM customer seg
 | [SupplyTrace](https://github.com/vishnuatgit/SupplyTrace) | Validates deeply nested enterprise XML (UBL-style invoices) and predicts processing risk with a Random Forest | FastAPI, scikit-learn, Pandas |
 | [LibMS](https://github.com/vishnuatgit/LibMS) | Library management system with hand-built data structures: an LRU cache, fast search and recommendations | Flask, SQLite |
 
-Smaller projects: [EcoMetrics](https://github.com/vishnuatgit/carbon-footprint-tracker), a carbon footprint tracker in plain JavaScript, and a [CLI Task Tracker](https://github.com/vishnuatgit/CLI_Task_Tracker) in Python.
+Smaller projects: [EcoMetrics](https://github.com/vishnuatgit/carbon-footprint-tracker), a carbon footprint tracker in plain JavaScript ([live demo](https://vishnuatgit.github.io/carbon-footprint-tracker/)), and a [CLI Task Tracker](https://github.com/vishnuatgit/CLI_Task_Tracker) in Python.
 
 ## Skills
 
