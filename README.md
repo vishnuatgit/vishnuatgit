@@ -9,17 +9,17 @@ B.Tech Computer Science and Engineering (AI/ML) student focused on backend devel
 ## Projects
 
 ### [ArchLens](https://github.com/vishnuatgit/ArchLens)
-*FastAPI, SQLAlchemy, Alembic, httpx, SQLite, Docker* · [Live demo](https://archlens-xhxr.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/archlens.html)
+*FastAPI, SQLAlchemy, Alembic, httpx, SQLite, Docker* · [Live demo](https://archlens-xhxr.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/archlens.html) ([PDF](https://vishnuatgit.github.io/pdf/archlens-case-study.pdf))
 
 Scores any public GitHub repo's engineering health from 0 to 100 across seven dimensions, as a web app, REST API and CLI. 258 tests, CI passing.
 
 ### [DeepBell](https://github.com/vishnuatgit/DeepBell)
-*FastAPI, LangChain, Google Gemini, scikit-learn, SQLite, Docker* · [Live demo](https://deepbell.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/deepbell.html)
+*FastAPI, LangChain, Google Gemini, scikit-learn, SQLite, Docker* · [Live demo](https://deepbell.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/deepbell.html) ([PDF](https://vishnuatgit.github.io/pdf/deepbell-case-study.pdf))
 
 An async SRE telemetry system: it flags CPU and memory anomalies with an Isolation Forest, writes root-cause incident reports with LangChain and Gemini, and rolls back SQLite snapshots. 89 tests, CI passing.
 
 ### [SupplyTrace](https://github.com/vishnuatgit/SupplyTrace)
-*Python, FastAPI, scikit-learn, Pandas, NumPy* · [Live demo](https://supplytrace-fkpq.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/supplytrace.html)
+*Python, FastAPI, scikit-learn, Pandas, NumPy* · [Live demo](https://supplytrace-fkpq.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/supplytrace.html) ([PDF](https://vishnuatgit.github.io/pdf/supplytrace-case-study.pdf))
 
 An ML data pipeline that ingests supplier XML invoices, validates them, builds feature matrices and adds an experimental risk score from a Random Forest. 163 tests, CI passing.
 
