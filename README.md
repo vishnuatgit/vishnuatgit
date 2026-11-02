@@ -2,7 +2,7 @@
 
 B.Tech CSE (AI/ML) student. I build backend systems, data pipelines and applied ML.
 
-[LinkedIn](https://linkedin.com/in/vishnujayanth) · [Email](mailto:jayanthvishnu9@gmail.com)
+[Portfolio](https://vishnuatgit.github.io) · [LinkedIn](https://linkedin.com/in/vishnujayanth) · [Email](mailto:jayanthvishnu9@gmail.com)
 
 ---
 
@@ -15,14 +15,14 @@ Built a 5-module ML platform on 36,893 e-commerce transactions: RFM customer seg
 
 | Project | What it does | Stack |
 |---|---|---|
-| [ArchLens](https://github.com/vishnuatgit/ArchLens) | Scores a GitHub repository's engineering health (0–100) across seven dimensions, as a web app, REST API and CLI | FastAPI, SQLAlchemy, Alembic, httpx, Docker |
-| [DeepBell](https://github.com/vishnuatgit/DeepBell) | SRE lab: watches its own CPU and memory, flags anomalies with an Isolation Forest, keeps rolling SQLite snapshots to roll back to, and writes incident reports (Gemini when a key is set, a template otherwise) | FastAPI, scikit-learn, LangChain, SQLite |
-| [SupplyTrace](https://github.com/vishnuatgit/SupplyTrace) | Validates supplier XML invoices (UBL-style), scores processing risk with a Random Forest and tracks results on a dashboard | FastAPI, scikit-learn, Pandas |
+| [ArchLens](https://github.com/vishnuatgit/ArchLens) · [live](https://archlens-xhxr.onrender.com) | Scores a GitHub repository's engineering health (0–100) across seven dimensions, as a web app, REST API and CLI | FastAPI, SQLAlchemy, Alembic, httpx, Docker |
+| [DeepBell](https://github.com/vishnuatgit/DeepBell) · [live](https://deepbell.onrender.com) | SRE lab: watches its own CPU and memory, flags anomalies with an Isolation Forest, keeps rolling SQLite snapshots to roll back to, and writes incident reports (Gemini when a key is set, a template otherwise) | FastAPI, scikit-learn, LangChain, SQLite |
+| [SupplyTrace](https://github.com/vishnuatgit/SupplyTrace) · [live](https://supplytrace-fkpq.onrender.com) | Validates supplier XML invoices (UBL-style) with deterministic rules, adds an experimental Random Forest risk score and tracks results on a dashboard | FastAPI, scikit-learn, Pandas |
 | [LibMS](https://github.com/vishnuatgit/LibMS) | Library management system with hand-written data structures: an LRU cache, a trie for autocomplete and a graph for related books | Flask, SQLite, Docker |
 
 Smaller projects: [EcoMetrics](https://github.com/vishnuatgit/carbon-footprint-tracker), a carbon footprint tracker in plain JavaScript ([live demo](https://vishnuatgit.github.io/carbon-footprint-tracker/)), and [CLI Task Tracker](https://github.com/vishnuatgit/CLI_Task_Tracker), an installable to-do list for the terminal in plain Python.
 
-Every project has automated tests and CI on GitHub Actions.
+Every project has automated tests, CI on GitHub Actions and an MIT license. The live demos run on Render's free tier, so the first visit can take about a minute to wake up.
 
 ## Skills
 
