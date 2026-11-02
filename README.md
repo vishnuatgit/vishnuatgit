@@ -1,32 +1,33 @@
 # Chandana Vishnu Jayanth
 
-B.Tech CSE (AI/ML) student. I build backend systems, data pipelines and applied ML.
+B.Tech Computer Science and Engineering (AI/ML) student focused on backend development, data pipelines, and applied machine learning. As an ML development intern at VSC DigiTech, I built a five-module platform on 36,893 e-commerce transactions.
 
-[Portfolio](https://vishnuatgit.github.io) · [LinkedIn](https://linkedin.com/in/vishnujayanth) · [Email](mailto:jayanthvishnu9@gmail.com)
+[Portfolio](https://vishnuatgit.github.io) | [LinkedIn](https://linkedin.com/in/vishnujayanth) | [Email](mailto:jayanthvishnu9@gmail.com)
 
 ---
 
-## Experience
-
-**Machine Learning Development Intern, VSC DigiTech** · Feb – Mar 2026
-Built a 5-module ML platform on 36,893 e-commerce transactions: RFM customer segmentation (KMeans), monthly revenue forecasting (Random Forest on lag features) and product recommendations. Delivered under NDA.
-
 ## Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [ArchLens](https://github.com/vishnuatgit/ArchLens) · [live](https://archlens-xhxr.onrender.com) | Scores a GitHub repository's engineering health (0–100) across seven dimensions, as a web app, REST API and CLI | FastAPI, SQLAlchemy, Alembic, httpx, Docker |
-| [DeepBell](https://github.com/vishnuatgit/DeepBell) · [live](https://deepbell.onrender.com) | SRE lab: watches its own CPU and memory, flags anomalies with an Isolation Forest, keeps rolling SQLite snapshots to roll back to, and writes incident reports (Gemini when a key is set, a template otherwise) | FastAPI, scikit-learn, LangChain, SQLite |
-| [SupplyTrace](https://github.com/vishnuatgit/SupplyTrace) · [live](https://supplytrace-fkpq.onrender.com) | Validates supplier XML invoices (UBL-style) with deterministic rules, adds an experimental Random Forest risk score and tracks results on a dashboard | FastAPI, scikit-learn, Pandas |
-| [LibMS](https://github.com/vishnuatgit/LibMS) | Library management system with hand-written data structures: an LRU cache, a trie for autocomplete and a graph for related books | Flask, SQLite, Docker |
+### [ArchLens](https://github.com/vishnuatgit/ArchLens)
+*FastAPI, SQLAlchemy, Alembic, httpx, SQLite, Docker* · [Live demo](https://archlens-xhxr.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/archlens.html)
 
-Smaller projects: [EcoMetrics](https://github.com/vishnuatgit/carbon-footprint-tracker), a carbon footprint tracker in plain JavaScript ([live demo](https://vishnuatgit.github.io/carbon-footprint-tracker/)), and [CLI Task Tracker](https://github.com/vishnuatgit/CLI_Task_Tracker), an installable to-do list for the terminal in plain Python.
+Scores any public GitHub repo's engineering health from 0 to 100 across seven dimensions, as a web app, REST API and CLI. 258 tests, CI passing.
 
-Every project has automated tests, CI on GitHub Actions and an MIT license. The live demos run on Render's free tier, so the first visit can take about a minute to wake up.
+### [DeepBell](https://github.com/vishnuatgit/DeepBell)
+*FastAPI, LangChain, Google Gemini, scikit-learn, SQLite, Docker* · [Live demo](https://deepbell.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/deepbell.html)
 
-## Skills
+An async SRE telemetry system: it flags CPU and memory anomalies with an Isolation Forest, writes root-cause incident reports with LangChain and Gemini, and rolls back SQLite snapshots. 89 tests, CI passing.
 
-- **Languages:** Python, TypeScript, JavaScript, SQL
-- **Backend:** FastAPI, Next.js, Flask, Prisma, SQLAlchemy, REST APIs
-- **ML and data:** scikit-learn, Pandas, NumPy, LangChain
-- **Databases and DevOps:** PostgreSQL, SQLite, Docker, Vercel, GitHub Actions, pytest, Vitest, Playwright
+### [SupplyTrace](https://github.com/vishnuatgit/SupplyTrace)
+*Python, FastAPI, scikit-learn, Pandas, NumPy* · [Live demo](https://supplytrace-fkpq.onrender.com) · [Case study](https://vishnuatgit.github.io/projects/supplytrace.html)
+
+An ML data pipeline that ingests supplier XML invoices, validates them, builds feature matrices and adds an experimental risk score from a Random Forest. 163 tests, CI passing.
+
+---
+
+## Technical Skills
+
+- **Languages:** Python, TypeScript, JavaScript, SQL, Go, C
+- **Backend:** FastAPI, Flask, Next.js, Prisma, SQLAlchemy, REST APIs
+- **Machine Learning & Data:** scikit-learn, Pandas, NumPy, LangChain, feature engineering
+- **Databases, Infra & Testing:** PostgreSQL, SQLite, Docker, GitHub Actions, pytest, Playwright
