@@ -27,7 +27,7 @@ An ML data pipeline that validates supplier XML invoices, flags duplicate invoic
 
 ## Technical Skills
 
-- **Languages:** Python, TypeScript, JavaScript, SQL, Go, C
-- **Backend:** FastAPI, Flask, Next.js, Prisma, SQLAlchemy, REST APIs
+- **Languages:** Python, TypeScript, JavaScript, SQL, C, Java (basic)
+- **Backend:** FastAPI, Flask, SQLAlchemy, Alembic, httpx, asyncio, REST APIs
 - **Machine Learning & Data:** scikit-learn, Pandas, NumPy, LangChain, feature engineering
-- **Databases, Infra & Testing:** PostgreSQL, SQLite, Docker, GitHub Actions, Prometheus, Grafana, pytest, Locust, Playwright
+- **Databases, Infra & Testing:** PostgreSQL, SQLite, Docker, GitHub Actions, Prometheus, Grafana, pytest, Locust, Ruff
